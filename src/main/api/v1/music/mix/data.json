@@ -1,0 +1,97 @@
+[
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "adventure_kid_henry",
+    "music_url": "adventure_kid_henry.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "adventure_time",
+    "music_url": "adventure_time.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "adventure_time_series_finale",
+    "music_url": "adventure_time_series_finale.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "both_of_you",
+    "music_url": "both_of_you.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "dad_battle",
+    "music_url": "dad_battle.mp3"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "danger_henry",
+    "music_url": "danger_henry.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "danger_henry_force",
+    "music_url": "danger_henry_force.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "escapism",
+    "music_url": "escapism.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "everything_stays",
+    "music_url": "everything_stays.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "ghost_fight",
+    "music_url": "ghost_fight.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "hopes",
+    "music_url": "hopes.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "it_s_over_isn_t_it",
+    "music_url": "it_s_over_isn_t_it.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "love_like_you",
+    "music_url": "love_like_you.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "megalovania",
+    "music_url": "megalovania.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "miraculous_lady_bug",
+    "music_url": "miraculous_lady_bug.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "prodigiosa",
+    "music_url": "prodigiosa.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "spider_dance",
+    "music_url": "spider_dance.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "the_wall_between_us",
+    "music_url": "the_wall_between_us.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/src/main/api/v1/music/mix/",
+    "music_title": "we_are_the_crystal_gems",
+    "music_url": "we_are_the_crystal_gems.ogg"
+  }
+]
